@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f7f7f7,100:f05237&height=200&section=header&text=Sayantan%20Dasgupta&fontColor=000000&fontSize=42&desc=Quality%20Engineering%20%7C%20Test%20Automation%20%7C%20SDET&descAlignY=62&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F0897A&height=180&section=header&text=Sayantan%20Dasgupta&fontColor=1c1c1c&fontSize=42&desc=Quality%20Engineering%20%7C%20Test%20Automation%20%7C%20SDET&descAlignY=58&descSize=16&fontAlignY=42" />
 </p>
 
 <!-- Typing tagline -->
