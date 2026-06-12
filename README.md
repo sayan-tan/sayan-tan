@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F0897A&height=180&section=header&text=Sayantan%20Dasgupta&fontColor=1c1c1c&fontSize=42&desc=Quality%20Engineering%20%7C%20Test%20Automation%20%7C%20SDET&descAlignY=58&descSize=16&fontAlignY=42" />
+  <img src="https://raw.githubusercontent.com/sayan-tan/sayan-tan/main/assets/Banner.png" width="100%" />
 </p>
 
 <!-- Typing tagline -->
