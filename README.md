@@ -21,7 +21,7 @@
 ---
 
 ### 🧪 About Me
-- 🔭 Quality Engineer @ **BCG**, Bengaluru
+- 🔭 Senior Consultant - Quality @ **Thoughtworks**, Bengaluru
 - ⚡ I build automation frameworks that catch bugs before prod does
 - 🎯 Focused on Playwright, Cypress, k6 performance, and pytest API testing
 - 🌐 More at **[sayan-tan.in](https://sayan-tan.in)**
